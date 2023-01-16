@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jonathas da nova geração!
+## Hi! I'm Jonathas
  <div>
   <a href="https://github.com/jonathaspe/jonathaspe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathaspe&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
