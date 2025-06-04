@@ -1,6 +1,12 @@
 # Jonathas Santos 👨‍💻
 
-Olá, bem vindo ao meu perfil, meu nome é Jonathas Santos, sou brasileiro, atuo como QA na empresa Ritain.io e atualmente moro em Portugal. Sou formado em Administração e fiz uma especialização em Engenharia de Qualidade de Software. A tecnologia tem me permitido realizar muitos sonhos, entre eles, o de morar fora do Brasil. Tem sido uma experiência muito desafiadora, muito mais do que eu poderia imaginar, mas ao mesmo tempo, tem me tornado uma pessoa e um profissional melhor. 
+Hi, welcome to my profile. My name is Jonathas Santos, I’m Brazilian, I work as a QA at Noesis, and I currently live in Portugal. I have a degree in Business Administration and a specialization in Software Quality Engineering. Technology has allowed me to achieve many dreams, including the dream of living abroad. This has been one of the most challenging experiences of my life—far more than I could have imagined. At the same time, it has made me a much better and more resilient person and professional.
+
+I hope you enjoy this space where I’ll share all my public work and studies with you. If you'd like, feel free to reach out to me through my social media.
+
+###
+
+Olá, bem vindo ao meu perfil, meu nome é Jonathas Santos, sou brasileiro, atuo como QA na empresa Noesis e atualmente moro em Portugal. Sou formado em Administração e fiz uma especialização em Engenharia de Qualidade de Software. A tecnologia tem me permitido realizar muitos sonhos, entre eles, o de morar fora do Brasil. Esta Tem sido uma das experiências mais desafiadoras da minha vida, muito mais do que eu poderia imaginar. Ao mesmo tempo, tem me tornado uma pessoa e um profissional muito melhor e resiliente. 
 
 Espero que gostem deste espaço onde vou compartilhar com vocês todos os meus trabalhos e estudos públicos e, desejando, podem entrar em contato comigo através das minhas redes sociais.
 
