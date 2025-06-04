@@ -27,7 +27,7 @@ Espero que gostem deste espaço onde vou compartilhar com vocês todos os meus t
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://rest-assured.io/img/logo-transparent.png">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://images.seeklogo.com/logo-png/15/1/java-logo-png_seeklogo-158094.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="right" alt="Pikachu" height="180em" width="180em" src="https://c.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif">
 </div>
