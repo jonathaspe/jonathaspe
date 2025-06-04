@@ -4,7 +4,7 @@ Hi, welcome to my profile. My name is Jonathas Santos, I’m Brazilian, I work a
 
 I hope you enjoy this space where I’ll share all my public work and studies with you. If you'd like, feel free to reach out to me through my social media.
 
-###
+...
 
 Olá, bem vindo ao meu perfil, meu nome é Jonathas Santos, sou brasileiro, atuo como QA na empresa Noesis e atualmente moro em Portugal. Sou formado em Administração e fiz uma especialização em Engenharia de Qualidade de Software. A tecnologia tem me permitido realizar muitos sonhos, entre eles, o de morar fora do Brasil. Esta Tem sido uma das experiências mais desafiadoras da minha vida, muito mais do que eu poderia imaginar. Ao mesmo tempo, tem me tornado uma pessoa e um profissional muito melhor e resiliente. 
 
@@ -24,9 +24,10 @@ Espero que gostem deste espaço onde vou compartilhar com vocês todos os meus t
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://rest-assured.io/img/logo-transparent.png">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://rest-assured.io/img/logo-transparent.png">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="right" alt="Pikachu" height="180em" width="180em" src="https://c.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif">
 </div>
